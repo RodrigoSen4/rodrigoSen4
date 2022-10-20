@@ -4,7 +4,7 @@
 - 🌱 Estudo na trybe e no momento estou cursando o modulo de back-end
 <div align="center">
   <a href="https://github.com/RodrigoSen4">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSen4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSen4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSen4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
