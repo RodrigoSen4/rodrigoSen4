@@ -9,7 +9,7 @@
 - 💡 Fique a vontade e dê uma olhada nos meus repositórios, tem muita coisa interessante por lá!
 
 <div align="center" >
-<h3 align="center">Linguagens e ferramentas:</h3>
+<h2 align="center">Linguagens e ferramentas:</h2>
 <table width="320px">
     <tbody>
         <tr valign="top">
