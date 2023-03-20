@@ -1,7 +1,11 @@
 ## Olá, seja bem vindo!! 👋
 
-- 🔭 Sou desenvolvedor front-end.
-- 🌱 Estudo na trybe e no momento estou cursando o modulo de back-end
+- 🧑‍💻 Full Stack Developer.
+
+- 🚀 Estudo na trybe e no momento estou cursando o modulo de Ciências da computação.
+
+- 📍 Sou de Minas Gerais, Curvelo.
+
 <div align="center">
   <a href="https://github.com/RodrigoSen4">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSen4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
