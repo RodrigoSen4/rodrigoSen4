@@ -16,9 +16,9 @@
   
 ##
 
-<div>
+<div align="center" >
 <h3 align="center">Minhas linguagens e ferramentas:</h3>
-<table align="center width="320px">
+<table width="320px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
