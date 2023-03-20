@@ -6,6 +6,8 @@
 
 - 📍 Sou de Minas Gerais, Curvelo.
 
+- 📨 dias.rodrigosena@gmail.com
+
 - 💡 Fique a vontade e dê uma olhada nos meus repositórios, tem muita coisa interessante por lá!
 
 <div align="center" >
