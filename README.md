@@ -8,16 +8,8 @@
 
 - 💡 Fique a vontade e dê uma olhada nos meus repositórios, tem muita coisa interessante por lá!
 
-<div align="center">
-  <a href="https://github.com/RodrigoSen4">
-  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSen4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSen4&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-##
-
 <div align="center" >
-<h3 align="center">Minhas linguagens e ferramentas:</h3>
+<h3 align="center">Linguagens e ferramentas:</h3>
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -109,9 +101,15 @@
             </td>
         </tr>
     </tbody>
-</table>  
+</table>
+
 </div>
   <a href = "mailto:dias.rodrigosena@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-sen4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+</div>
+
+<div align="center">
+  <a href="https://github.com/RodrigoSen4">
+  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSen4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSen4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
