@@ -8,6 +8,8 @@
 
 - 📨 dias.rodrigosena@gmail.com
 
+- 📖 Entusiasta de raspagem de dados. [_Aqui está um projeto utilizando data scraping_](https://blog.betrybe.com). Embreve vou subir mais projetos.
+
 - 💡 Fique a vontade e dê uma olhada nos meus repositórios, tem muita coisa interessante por lá!
 
 <div align="center" >
