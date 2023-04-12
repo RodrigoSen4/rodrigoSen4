@@ -8,7 +8,7 @@
 
 - 📨 dias.rodrigosena@gmail.com
 
-- 📖 Entusiasta de raspagem de dados. [_Aqui está um projeto utilizando data scraping_](https://github.com/RodrigoSen4/tech-news-data-scraping). Embreve vou subir mais projetos.
+- 📖 Entusiasta de raspagem de dados. [_Aqui está um projeto utilizando data scraping_](https://github.com/RodrigoSen4/tech-news-data-scraping). Em breve vou subir mais projetos.
 
 - 💡 Fique a vontade e dê uma olhada nos meus repositórios, tem muita coisa interessante por lá!
 
