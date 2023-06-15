@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Full Stack Developer.
 
-- 🚀 Estudo na trybe e no momento estou cursando o modulo de Ciências da computação.
+- 🚀 Estudando JAVA.
 
 - 📍 Sou de Minas Gerais, Curvelo.
 
