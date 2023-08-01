@@ -103,10 +103,6 @@
                 <span><strong>GitHub</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
             </td>
-            <td width="80px" align="center">
-                <span><strong>GitHub</strong></span><br>
-                <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-            </td>
         </tr>
     </tbody>
 </table>
