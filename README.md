@@ -2,8 +2,6 @@
 
 - 🧑‍💻 Full Stack Developer.
 
-- 🚀 Estudando JAVA.
-
 - 📍 Sou de Minas Gerais, Curvelo.
 
 - 📨 dias.rodrigosena@gmail.com
